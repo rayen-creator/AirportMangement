@@ -17,9 +17,26 @@ namespace AM.ApplicationCore.Domain
 
         public ICollection<Flight> Flights { get; set; }
 
+       
+        public virtual void PassengerType()
+        {
+            Console.WriteLine("I am a passenger");
+        }
+
         public override string? ToString()
         {
             return base.ToString();
+        }
+
+        public bool CheckProfile(string nom , string prenom)
+        {
+            return (this.Firstname == nom) && (this.Lastname == prenom);
+            
+        }
+
+        public bool CheckProfile(string nom ,string prenom , string email)
+        {
+            return (this.EmailAddress == email) && (this.Firstname == nom) && (this.EmailAddress == email);
         }
     }
 }

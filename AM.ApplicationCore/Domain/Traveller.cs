@@ -8,6 +8,11 @@ namespace AM.ApplicationCore.Domain
 {
     public class Traveller : Passenger
     {
+        public override void PassengerType()
+        {
+            base.PassengerType();
+        }
+
         public string Healthinformation { get; set; }
         public string Nationality { get; set; }
 

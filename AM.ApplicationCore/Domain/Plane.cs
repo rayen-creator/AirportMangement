@@ -13,17 +13,7 @@ namespace AM.ApplicationCore.Domain
     }
     public class Plane
     {
-        public Plane()
-        {
-        }
-
-        //public Plane(int capacity, DateTime manufactureDate, PlaneType planetype)
-        //{
-        //    Capacity = capacity;
-        //    ManufactureDate = manufactureDate;
-        //    Planetype = planetype;
-        //}
-
+      
         public int PlaneId { get; set; }
 
         public int Capacity { get; set; }
