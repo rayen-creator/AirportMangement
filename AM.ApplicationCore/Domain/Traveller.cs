@@ -13,6 +13,7 @@ namespace AM.ApplicationCore.Domain
             base.PassengerType();
         }
 
+        
         public string Healthinformation { get; set; }
         public string Nationality { get; set; }
 

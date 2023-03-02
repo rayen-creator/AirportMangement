@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+I7WtU23KYUC6TZ1yc8JdsLmD2phCA7Xv3AbiLaFjnyZwkjM6lxmY46ioNA+byZGmzf9DyfLAruszhOlCObow==",
+  "dgSpecHash": "s3l7uFHoW70ehEgK1m04A2shRx6bimW2PfdKEXaywV0YLi7r5oTIXuJxcg/kASuHjHaxGjDSvzlTPBl2eFtM1A==",
   "success": true,
-  "projectFilePath": "C:\\Esprit\\Twin\\2nd Sem\\dotnet\\AirportMangement\\AM.UI.Console\\AM.UI.Console.csproj",
+  "projectFilePath": "C:\\Esprit\\Twin\\2nd Sem\\dotnet\\AirportMangement\\AM.Infrastructure\\AM.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rayen\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Rayen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -16,6 +16,7 @@
     "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\6.0.14\\microsoft.entityframeworkcore.proxies.6.0.14.nupkg.sha512",
     "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.14\\microsoft.entityframeworkcore.relational.6.0.14.nupkg.sha512",
     "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.14\\microsoft.entityframeworkcore.sqlserver.6.0.14.nupkg.sha512",
+    "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.14\\microsoft.entityframeworkcore.tools.6.0.14.nupkg.sha512",
     "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\Rayen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

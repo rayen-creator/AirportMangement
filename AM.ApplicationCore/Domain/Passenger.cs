@@ -15,7 +15,7 @@ namespace AM.ApplicationCore.Domain
         public int TelNumber { get; set; } 
         public DateTime BirthDate { get; set; }
 
-        public ICollection<Flight> Flights { get; set; }
+        public virtual ICollection<Flight> Flights { get; set; }
 
        
         public virtual void PassengerType()
