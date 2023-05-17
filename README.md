@@ -8,7 +8,7 @@ You may find below the list of things you need to use this project :
 ## Installation
 1- clone the project 
 ```bash
-  $ git clone https://github.com/rayen-creator/AirportMangement
+  $ git clone --branch master https://github.com/rayen-creator/AirportMangement
 ```
 2 - Install Nuget packages
 ```bash
